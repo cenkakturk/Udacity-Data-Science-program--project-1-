@@ -2,6 +2,9 @@
 ## Medium Blog Post
 https://medium.com/@akturkcenk/what-brings-us-to-covid-19-related-deaths-8024e58f4714
 
+## BUSINESS UNDERSTANDING
+There can be relativity between wealth of country and the death toll.
+
 ## LIBRARIES
 numpy pandas seaborn matplotlib.pyplot as plt sklearn statsmodel
 
